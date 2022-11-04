@@ -1,0 +1,60 @@
+C:\Users\morte\Documents\CSharp\XymogenWebDeveloperTest2022\NtaraCode\NtaraCode\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\morte\Documents\CSharp\XymogenWebDeveloperTest2022\NtaraCode\NtaraCode\bin\Debug\net6.0\appsettings.json
+C:\Users\morte\Documents\CSharp\XymogenWebDeveloperTest2022\NtaraCode\NtaraCode\bin\Debug\net6.0\NtaraCode.staticwebassets.runtime.json
+C:\Users\morte\Documents\CSharp\XymogenWebDeveloperTest2022\NtaraCode\NtaraCode\bin\Debug\net6.0\NtaraCode.exe
+C:\Users\morte\Documents\CSharp\XymogenWebDeveloperTest2022\NtaraCode\NtaraCode\bin\Debug\net6.0\NtaraCode.deps.json
+C:\Users\morte\Documents\CSharp\XymogenWebDeveloperTest2022\NtaraCode\NtaraCode\bin\Debug\net6.0\NtaraCode.runtimeconfig.json
+C:\Users\morte\Documents\CSharp\XymogenWebDeveloperTest2022\NtaraCode\NtaraCode\bin\Debug\net6.0\NtaraCode.dll
+C:\Users\morte\Documents\CSharp\XymogenWebDeveloperTest2022\NtaraCode\NtaraCode\bin\Debug\net6.0\NtaraCode.pdb
+C:\Users\morte\Documents\CSharp\XymogenWebDeveloperTest2022\NtaraCode\NtaraCode\obj\Debug\net6.0\NtaraCode.csproj.AssemblyReference.cache
+C:\Users\morte\Documents\CSharp\XymogenWebDeveloperTest2022\NtaraCode\NtaraCode\obj\Debug\net6.0\NtaraCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morte\Documents\CSharp\XymogenWebDeveloperTest2022\NtaraCode\NtaraCode\obj\Debug\net6.0\NtaraCode.AssemblyInfoInputs.cache
+C:\Users\morte\Documents\CSharp\XymogenWebDeveloperTest2022\NtaraCode\NtaraCode\obj\Debug\net6.0\NtaraCode.AssemblyInfo.cs
+C:\Users\morte\Documents\CSharp\XymogenWebDeveloperTest2022\NtaraCode\NtaraCode\obj\Debug\net6.0\NtaraCode.csproj.CoreCompileInputs.cache
+C:\Users\morte\Documents\CSharp\XymogenWebDeveloperTest2022\NtaraCode\NtaraCode\obj\Debug\net6.0\NtaraCode.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\morte\Documents\CSharp\XymogenWebDeveloperTest2022\NtaraCode\NtaraCode\obj\Debug\net6.0\NtaraCode.RazorAssemblyInfo.cache
+C:\Users\morte\Documents\CSharp\XymogenWebDeveloperTest2022\NtaraCode\NtaraCode\obj\Debug\net6.0\NtaraCode.RazorAssemblyInfo.cs
+C:\Users\morte\Documents\CSharp\XymogenWebDeveloperTest2022\NtaraCode\NtaraCode\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\morte\Documents\CSharp\XymogenWebDeveloperTest2022\NtaraCode\NtaraCode\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\morte\Documents\CSharp\XymogenWebDeveloperTest2022\NtaraCode\NtaraCode\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\morte\Documents\CSharp\XymogenWebDeveloperTest2022\NtaraCode\NtaraCode\obj\Debug\net6.0\scopedcss\bundle\NtaraCode.styles.css
+C:\Users\morte\Documents\CSharp\XymogenWebDeveloperTest2022\NtaraCode\NtaraCode\obj\Debug\net6.0\scopedcss\projectbundle\NtaraCode.bundle.scp.css
+C:\Users\morte\Documents\CSharp\XymogenWebDeveloperTest2022\NtaraCode\NtaraCode\obj\Debug\net6.0\NtaraCode.dll
+C:\Users\morte\Documents\CSharp\XymogenWebDeveloperTest2022\NtaraCode\NtaraCode\obj\Debug\net6.0\refint\NtaraCode.dll
+C:\Users\morte\Documents\CSharp\XymogenWebDeveloperTest2022\NtaraCode\NtaraCode\obj\Debug\net6.0\NtaraCode.pdb
+C:\Users\morte\Documents\CSharp\XymogenWebDeveloperTest2022\NtaraCode\NtaraCode\obj\Debug\net6.0\NtaraCode.genruntimeconfig.cache
+C:\Users\morte\Documents\CSharp\XymogenWebDeveloperTest2022\NtaraCode\NtaraCode\obj\Debug\net6.0\ref\NtaraCode.dll
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\bin\Debug\net6.0\appsettings.json
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\bin\Debug\net6.0\NtaraCode.staticwebassets.runtime.json
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\bin\Debug\net6.0\NtaraCode.exe
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\bin\Debug\net6.0\NtaraCode.deps.json
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\bin\Debug\net6.0\NtaraCode.runtimeconfig.json
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\bin\Debug\net6.0\NtaraCode.dll
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\bin\Debug\net6.0\NtaraCode.pdb
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\bin\Debug\net6.0\Json.Net.dll
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\obj\Debug\net6.0\NtaraCode.csproj.AssemblyReference.cache
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\obj\Debug\net6.0\NtaraCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\obj\Debug\net6.0\NtaraCode.AssemblyInfoInputs.cache
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\obj\Debug\net6.0\NtaraCode.AssemblyInfo.cs
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\obj\Debug\net6.0\NtaraCode.csproj.CoreCompileInputs.cache
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\obj\Debug\net6.0\NtaraCode.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\obj\Debug\net6.0\NtaraCode.RazorAssemblyInfo.cache
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\obj\Debug\net6.0\NtaraCode.RazorAssemblyInfo.cs
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\obj\Debug\net6.0\scopedcss\bundle\NtaraCode.styles.css
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\obj\Debug\net6.0\scopedcss\projectbundle\NtaraCode.bundle.scp.css
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\obj\Debug\net6.0\NtaraCode.csproj.CopyComplete
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\obj\Debug\net6.0\NtaraCode.dll
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\obj\Debug\net6.0\refint\NtaraCode.dll
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\obj\Debug\net6.0\NtaraCode.pdb
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\obj\Debug\net6.0\NtaraCode.genruntimeconfig.cache
+C:\Users\morte\Documents\Ntara Code\EF data project\NtaraCode\NtaraCode\obj\Debug\net6.0\ref\NtaraCode.dll
