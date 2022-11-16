@@ -618,11 +618,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\morte\\Documents\\Ntara Code\\EF data project\\NtaraCode\\NtaraCode\\NtaraCode.csproj",
+      "projectUniqueName": "C:\\Users\\morte\\OneDrive - conzeptum.net\\Documents\\Ntara Code\\EF data project\\NtaraCode\\NtaraCode\\NtaraCode.csproj",
       "projectName": "NtaraCode",
-      "projectPath": "C:\\Users\\morte\\Documents\\Ntara Code\\EF data project\\NtaraCode\\NtaraCode\\NtaraCode.csproj",
+      "projectPath": "C:\\Users\\morte\\OneDrive - conzeptum.net\\Documents\\Ntara Code\\EF data project\\NtaraCode\\NtaraCode\\NtaraCode.csproj",
       "packagesPath": "C:\\Users\\morte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\morte\\Documents\\Ntara Code\\EF data project\\NtaraCode\\NtaraCode\\obj\\",
+      "outputPath": "C:\\Users\\morte\\OneDrive - conzeptum.net\\Documents\\Ntara Code\\EF data project\\NtaraCode\\NtaraCode\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\morte\\AppData\\Roaming\\NuGet\\NuGet.Config",

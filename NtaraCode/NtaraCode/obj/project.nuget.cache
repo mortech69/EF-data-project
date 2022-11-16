@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B57hXz4H7z/Jp5TVwQeuhBcI8kcz3eMo0OlQ2n80d6i0bcG1LUT9FvL89303ZtUSr5mWqnZC2pXLctGe8wVGEw==",
+  "dgSpecHash": "luMI9ksCvc/9Sspg1FahkqKQJMX7ZIm7Ms9uaE55WoN38K0bV97AQxaMsOo6WLrp2jciSFegql/cFEX79Pvjpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\morte\\Documents\\Ntara Code\\EF data project\\NtaraCode\\NtaraCode\\NtaraCode.csproj",
+  "projectFilePath": "C:\\Users\\morte\\OneDrive - conzeptum.net\\Documents\\Ntara Code\\EF data project\\NtaraCode\\NtaraCode\\NtaraCode.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\morte\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512",
     "C:\\Users\\morte\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.10\\microsoft.entityframeworkcore.6.0.10.nupkg.sha512",
